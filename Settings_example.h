@@ -1,0 +1,6 @@
+#define CONFIG_SSID ""
+#define CONFIG_PASS ""
+#define CONFIG_DEVICE_ID "temp-sens-1"
+#define CONFIG_MQTT_SERVER "test.mosquitto.org"
+#define CONFIG_MQTT_USER ""
+#define CONFIG_MQTT_PASS ""
